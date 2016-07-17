@@ -29,6 +29,11 @@ Adafruit Powerboost 1000C => https://www.adafruit.com/product/2465
 
 http://www.banggood.com/37V-Liion-Battery-Mini-USB-To-USB-A-Power-Apply-Module-p-928948.html?p=9B1915347037201311DI
 
+- Battery
+
+Adafruit 2000mAh LiPo Battery
+
+
 - gameboy shell
 
 https://www.amazon.com/Housing-Nintendo-Gameboy-Classic-Console/dp/B01E0ZQPTK/ref=sr_1_32?ie=UTF8&qid=1468764934&sr=8-32&keywords=NBGames
@@ -69,6 +74,12 @@ http://www.sudomod.com/forum/viewtopic.php?f=3&t=788
 - Speakers
 
  http://www.retrofresh.uk
+ 
+ - Audio Amplifier
+ 
+https://www.adafruit.com/products/2130
+http://www.banggood.com/2x3W-Mini-Digital-Power-Amplifier-Board-Class-D-Audio-Module-USB-DC-5V-p-929449.html?p=9B1915347037201311DI
+https://www.amazon.de/dp/B00C7LXUDY/ref=cm_sw_em_r_mt_dp_BcgwxbQ91FWJC
 
 - microSD-to-Cartridge
 
