@@ -38,6 +38,8 @@ Adafruit 2000mAh LiPo Battery
 
 https://www.amazon.com/Housing-Nintendo-Gameboy-Classic-Console/dp/B01E0ZQPTK/ref=sr_1_32?ie=UTF8&qid=1468764934&sr=8-32&keywords=NBGames
 
+http://www.banggood.com/OEM-Full-Housing-Shell-for-Nintendo-Gameboy-Classic-GB-DMG-Console-p-973616.html?p=9B1915347037201311DI
+
 - Custom Case Stickers
 
 http://retrofresh.uk/
@@ -74,6 +76,7 @@ http://www.sudomod.com/forum/viewtopic.php?f=3&t=788
 - Speakers
 
  http://www.retrofresh.uk
+ https://www.adafruit.com/products/1890
  
  - Audio Amplifier
  
