@@ -23,3 +23,38 @@ https://www.amazon.fr/Power-Iceworks%C2%AE-2500mAh-C%C3%A2ble-int%C3%A9gr%C3%A9/
 - gameboy shell
 
 https://www.amazon.com/Housing-Nintendo-Gameboy-Classic-Console/dp/B01E0ZQPTK/ref=sr_1_32?ie=UTF8&qid=1468764934&sr=8-32&keywords=NBGames
+
+- Custom Case Stickers
+
+http://retrofresh.uk/
+
+- silicone buttons / buttons
+
+http://store.kitsch-bent.com/product/silicone-buttons
+ http://www.retrofresh.uk
+
+- 3d printed button wells
+http://www.sudomod.com/forum/viewtopic.php?f=3&t=941
+
+- Gameboy PCB
+
+ http://www.retrofresh.uk
+ 
+ 
+
+- Glass Screen Protector
+
+http://www.sudomod.com/forum/viewtopic.php?f=3&t=654
+http://retrofresh.uk/
+
+- game cartridge labels
+
+http://retrofresh.uk/
+
+- Speakers
+
+ http://www.retrofresh.uk
+
+- microSD-to-Cartridge
+
+http://store.kitsch-bent.com
