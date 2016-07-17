@@ -11,6 +11,11 @@
 
 ## Stuff
 
+- Raspberry Pi 
+
+https://shop.pimoroni.com/collections/raspberry-pi/products/raspberry-pi-3
+
+
 - power supply
 
 https://www.amazon.com/Ultra-Thin-Portable-External-Lightning-USB-Charged/dp/B00SO46KQ2/ref=sr_1_3?ie=UTF8&qid=1466193848&sr=8-3&keywords=credit+card+powerbank
@@ -54,6 +59,8 @@ http://retrofresh.uk/
 
 http://retrofresh.uk/
 
+http://www.sudomod.com/forum/viewtopic.php?f=3&t=788
+
 - Speakers
 
  http://www.retrofresh.uk
@@ -61,3 +68,19 @@ http://retrofresh.uk/
 - microSD-to-Cartridge
 
 http://store.kitsch-bent.com
+
+- Screen
+
+
+<a href="/wiki/index.php?title=Adafruit_3.5%22_Composite_Display" title="Adafruit 3.5&quot; Composite Display">Adafruit 3.5" Composite Display</a>
+
+
+<ul>
+<li><a href="/wiki/index.php?title=BW_3.5_Composite_Display" title="BW 3.5 Composite Display">BW 3.5 Composite Display</a></li>
+<li><a href="/wiki/index.php?title=EPathChina_3.5_Composite_Display" title="EPathChina 3.5 Composite Display">ePathChina 3.5 Composite Display</a></li>
+<li><a href="/wiki/index.php?title=XIANJIE_3.5_Composite_Display" title="XIANJIE 3.5 Composite Display">XIANJIE 3.5 Composite Display</a></li>
+<li><a href="/wiki/index.php?title=BuyDisplay.com_3.5%22_Composite_Display" title="BuyDisplay.com 3.5&quot; Composite Display">BuyDisplay.com 3.5" Composite Display</a></li>
+<li><a href="/wiki/index.php?title=Noname_gadgetinfinite_3.5_Composite_Display" title="Noname gadgetinfinite 3.5 Composite Display">noname gadgetinfinite 3.5 Composite Display</a></li>
+<li><a href="/wiki/index.php?title=Noname_emarket666_3.5_Composite_Display" title="Noname emarket666 3.5 Composite Display">noname emarket666 3.5 Composite Display</a></li>
+<li><a href="/wiki/index.php?title=Noname_GearBest_3.5_Composite_Display" title="Noname GearBest 3.5 Composite Display">noname GearBest 3.5 Composite Display</a></li>
+</ul>
