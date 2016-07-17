@@ -25,6 +25,10 @@ https://www.amazon.com/Ultra-Slim-Ultra-Portable-Ultra-Safe-External-Lightning/d
 https://www.amazon.fr/Power-Iceworks%C2%AE-2500mAh-C%C3%A2ble-int%C3%A9gr%C3%A9/dp/B00WOPNE0W/ref=sr_1_3?rps=1&ie=UTF8&qid=1468765859&sr=8-3&keywords=credit+card+powerbank
 
 
+Adafruit Powerboost 1000C => https://www.adafruit.com/product/2465
+
+http://www.banggood.com/37V-Liion-Battery-Mini-USB-To-USB-A-Power-Apply-Module-p-928948.html?p=9B1915347037201311DI
+
 - gameboy shell
 
 https://www.amazon.com/Housing-Nintendo-Gameboy-Classic-Console/dp/B01E0ZQPTK/ref=sr_1_32?ie=UTF8&qid=1468764934&sr=8-32&keywords=NBGames
@@ -36,7 +40,8 @@ http://retrofresh.uk/
 - silicone buttons / buttons
 
 http://store.kitsch-bent.com/product/silicone-buttons
- http://www.retrofresh.uk
+http://www.retrofresh.uk
+(pad) http://www.banggood.com/SNES-USB-Famicom-Colored-Super-Nintendo-Controller-for-PCMAC-p-923100.html?p=9B1915347037201311DI
 
 - 3d printed button wells
 http://www.sudomod.com/forum/viewtopic.php?f=3&t=941
