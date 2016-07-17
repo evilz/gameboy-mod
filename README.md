@@ -40,6 +40,9 @@ http://www.sudomod.com/forum/viewtopic.php?f=3&t=941
 
  http://www.retrofresh.uk
  
+ http://store.kitsch-bent.com/product/expanded-dmg-button-pcb-i2c-version
+ 
+ http://www.sudomod.com/forum/viewtopic.php?f=3&t=28
  
 
 - Glass Screen Protector
