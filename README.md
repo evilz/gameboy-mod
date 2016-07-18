@@ -6,7 +6,8 @@
 - soldering iron : 
 - cable
 - glue
-- 
+- 3D print : https://www.3dhubs.com/
+
 
 
 ## Stuff
