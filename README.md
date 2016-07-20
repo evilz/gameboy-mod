@@ -115,3 +115,9 @@ http://fr.aliexpress.com/item/Free-ShippingOriginal-new-for-PVI-3-5-inch-PD035VX
 - [Chips : GBPi2 with real L & R buttons](http://www.sudomod.com/forum/viewtopic.php?f=9&t=55)
 
 - [Custom board !](http://i.imgur.com/TB2kvvv.jpg)
+
+- [Cannikin's GBZ : better stuff !](http://www.sudomod.com/forum/viewtopic.php?f=9&t=368&start=20)
+- [Cannikin : Keeping as many stock connectors as possible](http://www.sudomod.com/forum/viewtopic.php?f=8&t=244&sid=b60b7822f1c3c7c0cdb719f5e5d6242b)
+- [Cannikin : Better sound, better speaker](http://www.sudomod.com/forum/viewtopic.php?f=8&t=242)
+- [Display info](http://www.sudomod.com/forum/viewtopic.php?f=8&t=15&start=40#p2347)
+
