@@ -41,6 +41,12 @@ https://www.amazon.com/Housing-Nintendo-Gameboy-Classic-Console/dp/B01E0ZQPTK/re
 
 http://www.banggood.com/OEM-Full-Housing-Shell-for-Nintendo-Gameboy-Classic-GB-DMG-Console-p-973616.html?p=9B1915347037201311DI
 
+- Grid
+
+https://www.amazon.com/Amaco-WireForm-coated-aluminum-modelers/dp/B004BN6D4Y/ref=sr_1_3?ie=UTF8&qid=1466372295&sr=8-3&keywords=wireform
+
+http://www.ebay.co.uk/itm/Nexus-Technology-PCI-Ventilation-Brackets-Case-Blanking-Plate-/251223213596?hash=item3a7e12061c:g:l1MAAOxyY3ZR0FPh
+
 - Custom Case Stickers
 
 http://retrofresh.uk/
@@ -50,6 +56,15 @@ http://retrofresh.uk/
 http://store.kitsch-bent.com/product/silicone-buttons
 http://www.retrofresh.uk
 (pad) http://www.banggood.com/SNES-USB-Famicom-Colored-Super-Nintendo-Controller-for-PCMAC-p-923100.html?p=9B1915347037201311DI
+
+- Joystick
+https://www.ifixit.com/Store/Mac/Nintendo-3DS-XL-Circle-Pad-Control-Board/IF258-008-1?gclid=CLCI0snk98wCFUEkhgodZ08LYg
+
+https://m.aliexpress.com/item/2053696817.html
+
+https://m.aliexpress.com/item/32655448475.html
+
+
 
 - 3d printed button wells
 http://www.sudomod.com/forum/viewtopic.php?f=3&t=941
