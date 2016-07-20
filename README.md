@@ -92,6 +92,10 @@ http://store.kitsch-bent.com
 - Screen
 
 
+### 640x480
+
+http://fr.aliexpress.com/item/Free-ShippingOriginal-new-for-PVI-3-5-inch-PD035VX2-LCD-screen-display-panel-module-free-shippinglcd/1387635508.html?spm=2114.01010208.3.18.3AANQL&ws_ab_test=searchweb201556_10,searchweb201602_5_10017_301_407_406,searchweb201603_2&btsid=3240b95a-8acb-4119-96cf-809708acdce1  52$
+
 <a href="/wiki/index.php?title=Adafruit_3.5%22_Composite_Display" title="Adafruit 3.5&quot; Composite Display">Adafruit 3.5" Composite Display</a>
 
 
@@ -104,3 +108,10 @@ http://store.kitsch-bent.com
 <li><a href="/wiki/index.php?title=Noname_emarket666_3.5_Composite_Display" title="Noname emarket666 3.5 Composite Display">noname emarket666 3.5 Composite Display</a></li>
 <li><a href="/wiki/index.php?title=Noname_GearBest_3.5_Composite_Display" title="Noname GearBest 3.5 Composite Display">noname GearBest 3.5 Composite Display</a></li>
 </ul>
+
+
+# Mods
+
+- [Chips : GBPi2 with real L & R buttons](http://www.sudomod.com/forum/viewtopic.php?f=9&t=55)
+
+- [Custom board !](http://i.imgur.com/TB2kvvv.jpg)
