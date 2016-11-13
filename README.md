@@ -136,3 +136,7 @@ http://fr.aliexpress.com/item/Free-ShippingOriginal-new-for-PVI-3-5-inch-PD035VX
 - [Cannikin : Better sound, better speaker](http://www.sudomod.com/forum/viewtopic.php?f=8&t=242)
 - [Display info](http://www.sudomod.com/forum/viewtopic.php?f=8&t=15&start=40#p2347)
 
+
+# Connector 
+
+- http://dronetouch.fr/principaux-connecteur-differents-drones
