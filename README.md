@@ -140,3 +140,8 @@ http://fr.aliexpress.com/item/Free-ShippingOriginal-new-for-PVI-3-5-inch-PD035VX
 # Connector 
 
 - http://dronetouch.fr/principaux-connecteur-differents-drones
+
+
+# Some links
+
+http://www.exp-tech.de/en/50-pin-fpc-extension-board-200mm-cable
